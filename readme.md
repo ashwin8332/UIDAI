@@ -1,6 +1,6 @@
-# UIDAI Aadhaar Data Analysis - Comprehensive Research Report
+# UIDAI Aadhaar Data Analysis Report
 
-**Author**: Data Science Research Team  
+**Authors**: Ashwin Vincent Koonissery  &&& Maxwell Mathew 
 **Date**: January 2026  
 **Version**: 1.0  
 **Project**: UIDAI Data Hackathon 2026
