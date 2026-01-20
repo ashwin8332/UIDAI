@@ -878,7 +878,7 @@ UIDAI Data Hackathon 2026/
 ## Contact & Feedback
 
 For questions, clarifications, or collaboration:
-- **Email**: lazerviji80@student.sit.ac.in
+- **Email**: lazerviji80@student.sfit.ac.in
 - **GitHub**: https://github.com/ashwin8332
 - **LinkedIn**: https://www.linkedin.com/in/ashwin-vincent-koonissery-a2662a2b7/
 
